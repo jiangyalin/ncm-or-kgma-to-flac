@@ -1,0 +1,19 @@
+{
+  "name": "ncm-or-kgma-to-flac",
+  "version": "0.1.50",
+  "private": true,
+  "scripts": {
+    "serve": "node main"
+  },
+  "dependencies": {
+    "browser-id3-writer": "^4.4.0",
+    "crypto-js": "^4.0.0",
+    "metaflac-js": "^1.0.5"
+  },
+  "devDependencies": {},
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie < 12"
+  ]
+}
